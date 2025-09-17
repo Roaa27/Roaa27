@@ -17,7 +17,11 @@
 
 ## 🛠️ Technical Skills  
 
-- Programming & Mobile Apps: Python, Flutter, SQL, Dart 
+Programming & Databases (Blue tones, like screenshot)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 - AI & Machine Learning: Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI  
 - Deployment & Tools: Docker, Git/GitHub, Cloud (AWS), Web Hosting  
 - Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Google Data Studio  
