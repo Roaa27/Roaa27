@@ -14,18 +14,33 @@
 🚀 Hands-on experience with deployment (servers, domains, Docker) and cloud platforms.
 
 ---
-
+ 
 ## 🛠️ Technical Skills  
 
-Programming & Databases (Blue tones, like screenshot)
+### Programming & Databases  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-- AI & Machine Learning: Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI  
-- Deployment & Tools: Docker, Git/GitHub, Cloud (AWS), Web Hosting  
-- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Google Data Studio  
+ 
 
+### AI & Machine Learning  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-E34F26?style=flat&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=pytorch&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF4500?style=flat&logo=huggingface&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6347?style=flat&logo=opencv&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-DC143C?style=flat&logo=google&logoColor=white)  
+
+### Deployment & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Web Hosting](https://img.shields.io/badge/Web%20Hosting-232F3E?style=flat&logo=vercel&logoColor=white)  
+
+### Data Analysis & Visualization  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ---
 
 ## 📚 Certifications  
