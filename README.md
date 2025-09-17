@@ -15,38 +15,37 @@
 
 ---
  
-## 🛠️ Technical Skills  
+## 🛠 Technical Skills  
 
 ### Programming & Databases  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
- 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&labelColor=333&logoWidth=20)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=333&logoWidth=20)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white&labelColor=333&logoWidth=20)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white&labelColor=333&logoWidth=20)  
 
 ### AI & Machine Learning  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-E34F26?style=flat&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-FF4500?style=flat&logo=huggingface&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6347?style=flat&logo=opencv&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-DC143C?style=flat&logo=google&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-E34F26?style=flat&logo=tensorflow&logoColor=white&labelColor=333&logoWidth=20)  
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat&logo=pytorch&logoColor=white&labelColor=333&logoWidth=20)  
+![NLP](https://img.shields.io/badge/NLP-FF4500?style=flat&logo=huggingface&logoColor=white&labelColor=333&logoWidth=20)  
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF6347?style=flat&logo=opencv&logoColor=white&labelColor=333&logoWidth=20)  
+![Generative AI](https://img.shields.io/badge/Generative%20AI-DC143C?style=flat&logo=google&logoColor=white&labelColor=333&logoWidth=20)  
 
 ### Deployment & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Web Hosting](https://img.shields.io/badge/Web%20Hosting-232F3E?style=flat&logo=vercel&logoColor=white)  
-
-## 🛠️ Technical Skills  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=333&logoWidth=20)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=333&logoWidth=20)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&labelColor=333&logoWidth=20)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white&labelColor=333&logoWidth=20)  
+![Web Hosting](https://img.shields.io/badge/Web%20Hosting-232F3E?style=flat&logo=vercel&logoColor=white&labelColor=333&logoWidth=20)  
 
 ### Data Analysis & Visualization  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-003087?style=flat&logo=seaborn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white&labelColor=333&logoWidth=20)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white&labelColor=333&logoWidth=20)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white&labelColor=333&logoWidth=20)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white&labelColor=333&logoWidth=20)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white&labelColor=333&logoWidth=20)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=white&labelColor=333&logoWidth=20)  
+![Seaborn](https://img.shields.io/badge/Seaborn-003087?style=flat&logo=seaborn&logoColor=white&labelColor=333&logoWidth=20)
+
 ---
 
 ## 📚 Certifications  
